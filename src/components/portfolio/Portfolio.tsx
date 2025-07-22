@@ -2,7 +2,7 @@ import React from 'react'
 import port1 from '../../assets/poert1.png';
 import port2 from '../../assets/port2.png';
 import port3 from '../../assets/port3.png';
-import style from './Portfolio.module.css';
+import style from './portfolio.module.css';
 
 export default function Portfolio() {
    return (
